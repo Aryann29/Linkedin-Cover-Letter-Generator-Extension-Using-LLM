@@ -39,7 +39,7 @@ The Cover Letter Creator is a web application that leverages the power of the Op
 ## Screenshots
 
 Here are the screenshots of the application:
-- **Step 1: Open Linkedin Job Post in Background**
+- **Step 1: Open Linkedin Job Post in Background and Open the Extension**
 -   ![step1](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/93592997-66bd-4a0b-949b-6b59bdb4d8d1)
 
   
