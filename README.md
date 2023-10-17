@@ -50,7 +50,7 @@ Here are the screenshots of the application:
 - **Step 3: Upload Your Resume**  
 ![step3](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/a85e5a17-204c-448f-8d38-35e94f1cbb06)
 
-- **Step 4: Generate Cover Letter**
+- **Step 4: Click on Generate Letter button to Generate Cover Letter**
  ![step4](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/6e57dbed-1c7a-4b69-be51-2e3cad3c1469)
 
 - **Step 5: View Generated Cover Letter**
