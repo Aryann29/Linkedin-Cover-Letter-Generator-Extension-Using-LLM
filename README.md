@@ -39,19 +39,22 @@ The Cover Letter Creator is a web application that leverages the power of the Op
 ## Screenshots
 
 Here are the screenshots of the application:
+- **Step 1: Open Linkedin Job Post in Background**
+-   ![step1](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/93592997-66bd-4a0b-949b-6b59bdb4d8d1)
 
-- **Step 1: Input Job Details**
-  ![step1](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/93592997-66bd-4a0b-949b-6b59bdb4d8d1)
+  
+- **Step 2: Input Job Details or Fill Job Info**
+![step2](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/977b2024-97fa-4211-b28e-f6194f720881)
 
 
-- **Step 2: Fill Job Info**
-  ![Fill Job Info](steps\step1.png)
+- **Step 3: Upload Your Resume**  
+![step3](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/a85e5a17-204c-448f-8d38-35e94f1cbb06)
 
-- **Step 3: Generate Cover Letter**
-  ![Generate Letter](steps\step1.png)
+- **Step 4: Generate Cover Letter**
+ ![step4](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/6e57dbed-1c7a-4b69-be51-2e3cad3c1469)
 
-- **Step 4: View Generated Cover Letter**
-  ![Cover Letter Output](steps\step1.png)
+- **Step 5: View Generated Cover Letter**
+![step5](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/9cc58426-d321-43b7-b61e-4ca3239f387b)
 
 ## Acknowledgments
 
