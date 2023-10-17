@@ -41,7 +41,8 @@ The Cover Letter Creator is a web application that leverages the power of the Op
 Here are the screenshots of the application:
 
 - **Step 1: Input Job Details**
-  ![Input Page](steps\step1.png)
+  ![step1](https://github.com/Aryann29/Linkedin-Cover-Letter-Generator-Extension-Using-LLM/assets/63531062/93592997-66bd-4a0b-949b-6b59bdb4d8d1)
+
 
 - **Step 2: Fill Job Info**
   ![Fill Job Info](steps\step1.png)
