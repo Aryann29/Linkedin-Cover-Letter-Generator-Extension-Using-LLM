@@ -1,6 +1,6 @@
 # Cover Letter Creator
 
-The Cover Letter Creator is a web application that leverages the power of the OpenAI Language Model (LLM) to generate personalized cover letters for LinkedIn job postings. This project consists of a Flask-based backend and a user-friendly HTML/JavaScript front-end.
+The Cover Letter Creator is a web application that leverages the power of the OpenAI Language Model (LLM) to generate personalized cover letters for LinkedIn job postings using Langchain. This project consists of a Flask-based backend and a user-friendly HTML/JavaScript front-end.
 
 ## Features
 
@@ -24,6 +24,8 @@ The Cover Letter Creator is a web application that leverages the power of the Op
 ## Technologies Used
 
 - **Flask**: The backend of the application is built using the Flask web framework.
+
+- **LangChain**: NLP framework to analyze job details and resume to create cover letter content.
 
 - **OpenAI GPT-3.5**: The OpenAI Language Model is used for generating the cover letter content.
 
