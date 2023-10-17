@@ -1,0 +1,17 @@
+
+{
+    "manifest_version": 3,
+    "name": "Cover Letter Creator",
+    "version": "1.0.0",
+    "permissions": ["tabs"],
+    "action": {
+      "default_icon": {
+        "128": "images/logo128.png",
+        "48": "images/logo48.png",
+        "16": "images/logo16.png"
+      }, 
+      "default_popup": "popup.html",
+      "default_title": "Cover Letter Creator"
+    }
+  }
+  

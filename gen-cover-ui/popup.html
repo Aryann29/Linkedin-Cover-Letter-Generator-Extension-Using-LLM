@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cover Letter Creator</title>
+    <link rel="stylesheet" href="popup.css">
+
+</head>
+
+<body>
+    <div id="loading-spinner">
+        <div class="spinner"></div>
+      </div>
+
+    <h1>Cover Letter Creator</h1>
+
+    <div id="input-slide" class="slide">
+        <div class="input-container">
+            <label for="roleInput">Role:</label>
+            <textarea type="text" id="roleInput" placeholder="Job Role will be filled here"></textarea>
+        </div>
+
+        <div class="input-container">
+            <label for="companyInput">Company:</label>
+            <textarea type="text" id="companyInput" placeholder="Company name will be filled here"></textarea>
+        </div>
+
+        <div class="input-container">
+            <label for="descriptionInput">Description:</label>
+            <textarea id="descriptionInput" placeholder="Job Description will be filled here"></textarea>
+        </div>
+        <div class="input-container">
+            <label for="resumeInput">Upload Resume:</label>
+            <input type="file" id="resumeInput" accept=".pdf">
+        </div>
+        <div id="a-buttons">
+
+            <button id="fill-job-id-button">Fill Job Info</button>
+
+            <button id="create-button">Generate Letter</button>
+        </div>
+
+    </div>
+
+
+    <div id="output-slide" class="slide">
+        <div id="cover-letter"></div>
+        <div id="back-button-container">
+            <button id="back-button">Back</button>
+        </div>
+    </div>
+
+
+
+    <div id="status"></div>
+    <script src="popup.js"></script>
+
+
+
+</body>
+
+</html>
