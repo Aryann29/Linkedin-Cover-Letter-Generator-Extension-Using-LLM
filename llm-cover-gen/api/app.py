@@ -11,7 +11,7 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-openai.api_key = os.environ.get('OPENAI_API_KEY')
+openai.api_key = os.environ.get('Your API Key')
 
 @app.route('/job_details/<job_id>', methods=['GET'])
 def get_job_details(job_id):
