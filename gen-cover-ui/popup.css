@@ -101,19 +101,19 @@ label {
     margin-top: 10px;
 
 }
-#back-button {
+  #export-button {
     background-color: #333;
     color: white;
     border: none;
+    padding: 8px;
     border-radius: 2px;
-
     font-size: 15px;
     font-weight: 500;
 
     transition: background-color 0.2s;
 }
 
-#back-button:hover {
+#export-button:hover {
   background-color: #505254;
   cursor: pointer; 
 }

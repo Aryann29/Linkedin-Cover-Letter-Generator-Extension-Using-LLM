@@ -149,6 +149,25 @@ createButton.addEventListener('click', async () => {
       pdf_text: pdfText,
     };
     // console.log(coverLetterRequestData)
+    document.getElementById('export-button').addEventListener('click', () => {
+      const coverLetterText = document.getElementById('cover-letter').innerHTML;
+      exportToWord(coverLetterText);
+  });
+  
+  function exportToWord(coverLetterText) {
+      const formattedCoverLetter = coverLetterText.replace(/<br>/g, '\r\n');
+  
+      const blob = new Blob([formattedCoverLetter], { type: 'application/msword' });
+  
+      const downloadLink = document.createElement('a');
+      downloadLink.href = URL.createObjectURL(blob);
+      downloadLink.download = 'CoverLetter.doc';
+  
+      document.body.appendChild(downloadLink);
+      downloadLink.click();
+      document.body.removeChild(downloadLink);
+  }
+  
 
     const response = await fetch(coverLetterApiUrl, {
       method: 'POST',
